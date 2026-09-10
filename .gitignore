@@ -18,7 +18,7 @@ datasets/
 *.bmp
 
 # Modelos, checkpoints y artefactos pesados
-models/
+/models/
 checkpoints/
 *.h5
 *.keras
